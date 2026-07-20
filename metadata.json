@@ -1,0 +1,6 @@
+{
+  "name": "Habit Flow",
+  "description": "A polished Material 3 Habit Tracker with streak counters, progress visualizers, daily reminders, cross-device sync, and statistics export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

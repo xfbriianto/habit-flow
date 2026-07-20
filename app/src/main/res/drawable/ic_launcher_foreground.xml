@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Outer Glow Circular Path -->
+    <path
+        android:pathData="M54,14 A40,40 0 1 1 53.9,14"
+        android:strokeColor="#1A00F09F"
+        android:strokeWidth="4" />
+
+    <!-- Sleek Neon Check Circle Outline -->
+    <path
+        android:pathData="M54,18 A36,36 0 1 1 53.9,18"
+        android:strokeColor="#00F09F"
+        android:strokeWidth="2.5" />
+
+    <!-- Centered Flame representing Consistency Streaks -->
+    <path
+        android:fillColor="#00F09F"
+        android:pathData="M54,26 C54,26 68,43 68,58 C68,66.2 61.3,73 54,73 C46.7,73 40,66.2 40,58 C40,43 54,26 54,26 Z" />
+
+    <!-- Dynamic Overlay Inner Fire -->
+    <path
+        android:fillColor="#FFFF9F1C"
+        android:pathData="M54,40 C54,40 62,52 62,61 C62,66 58.4,70 54,70 C49.6,70 46,66 46,61 C46,52 54,40 54,40 Z" />
+
+    <!-- A Bold, Crisp White Checkmark overlapping in the foreground -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="4.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M38,55 L48,65 L70,41" />
+
+</vector>
